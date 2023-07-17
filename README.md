@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JavaScript<br>🎯 Goals: Learn how to make a game by June 2023<br>
+<p align="left">📚 I'm currently learning JavaScript<br>
+  🎯 Goals: 
+    Learn how to make a game by June 2023
+    C#, Unity
+  
+  <br>
 
 ###
 
