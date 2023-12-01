@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C# <br>
+<p align="left">📚 I'm currently learning Unity <br>
   🎯 Goals: Be A Game Developer <br>
 
 ###
