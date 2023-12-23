@@ -11,7 +11,7 @@
 ###
 
 <p align="left">📚 I'm currently learning Unity <br>
-  🎯 Goals: Be A Game Developer <br>
+  🎯 Goals: Be a game developer and create my dream game <br>
 
 ###
 
