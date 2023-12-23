@@ -3,6 +3,7 @@
 ###
 
 <p align="left"> It's Ece! I'm a student who wanna be a Game Developer (=^ ◡ ^=)	 </p>
+![nyan_cat](https://github.com/dedasame/dedasame/assets/106378288/3a2f196f-8ede-40d7-be96-78d9f96c429f)
 
 ###
 
