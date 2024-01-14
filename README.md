@@ -28,7 +28,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
   
   
   
