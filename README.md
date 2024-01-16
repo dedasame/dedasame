@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> It's Ece! I'm a student who wanna be a Game Developer (=^ ◡ ^=)	 </p>
+<p align="left"> It's Ece! A student who wanna be a Game Developer (=^ ◡ ^=)	 </p>
 
 ###
 
