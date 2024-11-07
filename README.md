@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, It's Ece</h1>
 <h3 align="center">A student who wanna be a Game Developer.</h3>
 
-
-
 # 💫 About Me:
 - 🌱 I’m currently learning **Unity 3D.**
 
