@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ece</h1>
+<h1 align="center">Hi 👋, It's Ece</h1>
 <h3 align="center">A student who wanna be a Game Developer.</h3>
 
 
