@@ -11,6 +11,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=dedasame&icon=7&color=10)](https://visitcount.itsvg.in)
 
