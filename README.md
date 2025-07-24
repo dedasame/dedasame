@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Game Developer.</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Unity 3D** and **Blender**.
+- 🌱 I’m currently learning **Blender**.
 
 # 💻 Tech Stack:
 <div align="left">
